@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+networkx==3.4.2
+pandas==2.2.3
+py-algorand-sdk==2.8.0
+python-multipart==0.0.17
+pydantic==2.10.3
+python-dotenv==1.0.0
+matplotlib==3.9.0
+ipfshttpclient==0.8.0a2

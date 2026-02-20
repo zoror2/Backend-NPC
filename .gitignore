@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+download_output.json
+output.json
+graph_*.png
+deploy_testnet.py
